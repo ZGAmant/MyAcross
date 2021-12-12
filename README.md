@@ -1,30 +1,30 @@
-## Across the Great Wall we can reach every corner in the world
+## 穿过长城我们可以到达世界的每个角落
 
 ## wireguard.sh
 
-- Description: This is a shell script for configure and start WireGuard VPN server.
+- 这是用于配置和启动线保护服务器的shell脚本
 - Intro: https://teddysun.com/554.html
 
 ## bbr.sh
 
-- Description: Auto install latest kernel for TCP BBR
+- 自动安装BBR的最新内核
 - Intro: https://teddysun.com/489.html
 
 ## kms.sh
 
-- Description: Auto install KMS Server
+- 自动安装 KMS Server
 - Intro: https://teddysun.com/530.html
 - **KMS Server Docker Image**: https://hub.docker.com/r/teddysun/kms
 
 ## bench.sh
 
-- Description: Auto test I/O & upload & download speed script
+- 描述:自动测试I/O和上传下载速度脚本
 - Intro: https://teddysun.com/444.html
 
 ## backup.sh
 
-- You must modify the config before run it
-- Backup MySQL or MariaDB datebases, files and directories
+- 在运行之前，您必须修改配置
+- 备份 MySQL 或 MariaDB 数据库文件和目录
 - Backup file is encrypted with AES256-cbc with SHA1 message-digest (Depends on `openssl` command) (option)
 - Auto transfer backup file to Google Drive (Depends on [`rclone`](https://teddysun.com/469.html) command) (option)
 - Auto transfer backup file to FTP server (Depends on `ftp` command) (option)
@@ -39,7 +39,7 @@
 
 ## unixbench.sh
 
-- Description: Auto install unixbench and test script
+- 描述:自动安装 unixbench 和测试脚本
 - Intro: https://teddysun.com/245.html
 
 ## l2tp.sh(Deprecated, DO NOT USE)
